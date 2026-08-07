@@ -1,0 +1,33 @@
+IN LIMINE
+=========
+
+Text (Originalgedicht von Johann van Staal, in mittelalterlicher
+Reimform nach Art des Vagantenlateins):
+
+  In limine sto mortis,
+  flores video hortis;
+  quam dulcis est haec terra,
+  quam blanda nox est sera.
+
+  Iam vocat me nox aeterna,
+  sed adhuc ardet lucerna;
+  o quam pulcher mundus iste -
+  dico vale, sed non triste.
+
+Uebersetzung:
+
+  Auf der Schwelle des Todes stehe ich,
+  Blumen sehe ich in den Gaerten;
+  wie suess ist diese Erde,
+  wie sanft die spaete Nacht.
+
+  Schon ruft mich die ewige Nacht,
+  doch noch brennt die Lampe;
+  o wie schoen ist diese Welt -
+  ich sage Lebewohl, doch nicht traurig.
+
+Anmerkung: Anders als die uebrigen lateinischen Texte des Projekts
+ist dieses Gedicht kein historisches Zitat, sondern ein Originaltext.
+Die Paarreime (mortis/hortis, aeterna/lucerna) folgen dem Klangbild
+mittelalterlicher Reimdichtung; die Schlusszeile "dico vale, sed non
+triste" kehrt als eigenstaendiges Sample am Ende des Stuecks wieder.
