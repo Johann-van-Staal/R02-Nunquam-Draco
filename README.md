@@ -72,17 +72,6 @@ arrangement from bar 0 to the final bell and stops by itself.
 
 The tracks expect the following files, referenced by name.
 
-For `we06r_deephouse.rb`:
-
-```
-effect_gregorian_chant.wav   effect_rain.wav      effect_craw.wav
-requiem_aeternam.wav         pulvis_et_umbra.wav  lux_perpetua.wav
-resurgemus.wav               amen.wav             the_mourning_is_over.wav
-welcome_home.wav
-```
-
-For `we07_nunquam_draco.rb`:
-
 ```
 effect_rain.wav              effect_craw.wav
 vocal_crux_sacra.wav         vocal_exorcizamus_te.wav
