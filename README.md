@@ -8,12 +8,9 @@ witch-house grooves.
 Each track is a single, self-contained `.rb` file. It plays the entire
 arrangement from bar 0 to the final bell and stops by itself.
 
-## Tracks
+## Track
 
-- **`we06r_deephouse.rb`** — deep house remix, 124 BPM, 128 bars.
-  Requiem intro, Gregorian chant, crows and bells over a four-to-the-floor
-  groove.
-- **`we07_nunquam_draco.rb` — "Nunquam Draco"** — a Crypt House ballad,
+- **`nunquam_draco.rb` — "Nunquam Draco"** — a Crypt House ballad,
   96 BPM, 104 bars, E minor. A halftime funeral march in which an exorcist's
   prayers (*Crux sacra*, *Exorcizamus te*) and the voices of a black mass
   (*In Nomine*, *Adjura me*) answer each other, while a dying speaker
